@@ -4,4 +4,4 @@ matplotlib
 scikit-learn
 sklearn
 seaborn
-Flask
+flask
