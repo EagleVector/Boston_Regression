@@ -1,4 +1,4 @@
-### Boston House Price Prediction
+## Boston House Price Prediction
 
 Create a new environment
 
@@ -17,3 +17,11 @@ Installing the requirements
 ```
 pip install -r requirements.txt
 ```
+
+Run the Prediction Application
+
+```
+python app.py
+```
+
+### Enter the Required fields and get the House price prediction
